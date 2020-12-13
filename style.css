@@ -1,0 +1,14 @@
+.box{
+	height: 300px;
+	width: 500px;
+	background: linear-gradient(green,skyblue,yellow,red);
+	margin: 100px auto;
+	padding: 10px 15px;
+}
+.box1{
+	height: 400px;
+	width: 500px;
+	background: radial-gradient(red 30%,green 70%);
+	margin: 100px auto;
+	padding: 10px 15px;
+}
